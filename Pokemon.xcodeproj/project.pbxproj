@@ -18,6 +18,7 @@
 		3A3E79272584E89A00339395 /* PokemonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3E79252584E89A00339395 /* PokemonTableViewCell.swift */; };
 		3A3E79282584E89A00339395 /* PokemonTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A3E79262584E89A00339395 /* PokemonTableViewCell.xib */; };
 		3AB2BBA425877BC700656673 /* PokemonDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB2BBA325877BC700656673 /* PokemonDetailsViewController.swift */; };
+		EC030F2F258AC21200CF3ABE /* PaginatedPokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC030F2E258AC21200CF3ABE /* PaginatedPokemon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		3A3E79252584E89A00339395 /* PokemonTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonTableViewCell.swift; sourceTree = "<group>"; };
 		3A3E79262584E89A00339395 /* PokemonTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PokemonTableViewCell.xib; sourceTree = "<group>"; };
 		3AB2BBA325877BC700656673 /* PokemonDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailsViewController.swift; sourceTree = "<group>"; };
+		EC030F2E258AC21200CF3ABE /* PaginatedPokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaginatedPokemon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				3A3E79082584E59400339395 /* AppDelegate.swift */,
 				3A3E790A2584E59400339395 /* SceneDelegate.swift */,
 				3A3E790C2584E59400339395 /* ViewController.swift */,
+				EC030F2E258AC21200CF3ABE /* PaginatedPokemon.swift */,
 				3AB2BBA325877BC700656673 /* PokemonDetailsViewController.swift */,
 				3A3E790E2584E59400339395 /* Main.storyboard */,
 				3A3E79112584E59F00339395 /* Assets.xcassets */,
@@ -160,6 +163,7 @@
 				3AB2BBA425877BC700656673 /* PokemonDetailsViewController.swift in Sources */,
 				3A3E79232584E82A00339395 /* NetworkingManager.swift in Sources */,
 				3A3E790B2584E59400339395 /* SceneDelegate.swift in Sources */,
+				EC030F2F258AC21200CF3ABE /* PaginatedPokemon.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
